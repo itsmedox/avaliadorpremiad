@@ -2,7 +2,7 @@
   "ADS": {
 
 
-    "networkAd": "yandex",
+    "networkAd": "xxx",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -44,24 +44,24 @@
     "url_exit": "xxx",
     "url_bottom_coins": "",
 
-    "Text_tips1": "Welcome xxx",
-    "Text_tips2": "Welcome xxx",
-    "Text_tips3": "Welcome xxx",
-    "Text_tips4": "Welcome xxx",
-    "Text_tips5": "Welcome xxx",
-    "Text_tips6": "Welcome xxx",
-    "Text_tips7": "Welcome xxx",
-    "Text_tips8": "Welcome xxx",
+    "Text_tips1": "Welcome Avaliador Premiado",
+    "Text_tips2": "Welcome Avaliador Premiado",
+    "Text_tips3": "Welcome Avaliador Premiado",
+    "Text_tips4": "Welcome Avaliador Premiado",
+    "Text_tips5": "Welcome Avaliador Premiado",
+    "Text_tips6": "Welcome Avaliador Premiado",
+    "Text_tips7": "Welcome Avaliador Premiado",
+    "Text_tips8": "Welcome Avaliador Premiado",
 
 
-    "Text_title1": "rrrrr",
-    "Text_title2": "rrrrr",
-    "Text_title3": "rrrrr",
-    "Text_title4": "rrrrr",
-    "Text_title5": "rrrrr",
-    "Text_title6": "rrrrr",
-    "Text_title7": "rrrrr",
-    "Text_title8": "rrrrr",
+    "Text_title1": "Avaliador Premiado",
+    "Text_title2": "Avaliador Premiado",
+    "Text_title3": "Avaliador Premiado",
+    "Text_title4": "Avaliador Premiado",
+    "Text_title5": "Avaliador Premiado",
+    "Text_title6": "Avaliador Premiado",
+    "Text_title7": "Avaliador Premiado",
+    "Text_title8": "Avaliador Premiado",
 
 
     "Text_buttonCoins" : "Male",
